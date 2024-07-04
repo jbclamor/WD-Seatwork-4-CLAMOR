@@ -24,9 +24,12 @@ div.main-content {
   justify-content: center;
   align-items: center;
   height: 100dvh;
-  width: 100dvw;
+  width: 98.89dvw;
+  padding-top: 15rem;
+  padding-right: 50rem;
   background: url(../img/void.jpg);
   background-size: cover;
   background-repeat: no-repeat;
+  color: white;
 }
 
