@@ -18,7 +18,7 @@
 <br />
 
 <!-- TODO: Change the zyx-0314 into your github username  --> jbclamor
-<!-- TODO: Change the WD-Template-Project into the same name of your folder --> WD-Seatwprk-4-CLAMOR
+<!-- TODO: Change the WD-Template-Project into the same name of your folder --> WD-Seatwork-4-CLAMOR
 ![](https://visit-counter.vercel.app/counter.png?page=jbclamor/WD-Seatwork-4-CLAMOR)
 
 ---
@@ -58,20 +58,13 @@
 <!-- The following are just sample -->
 Description of the project in details.
 
-Guiding Question:
-- What is the project
-- Whats the purpose
-- What are key components
-- What technology used and how it is used
-
 - This project showcases the different features of a website. It aims to further improve the programmer's skills in making a website and also come up with creative designs for the user's pleasure. The different
 technologies used are HTML and CSS only. 
 
 ### Key Components
 <!-- TODO: List of Key Components -->
 <!-- The following are just sample -->
-- MultiPage Website/Single Page Website
-- Parallax transition
+- MultiPage Website
 
 ### Technology
 <!-- TODO: List of Technology Used -->
@@ -90,14 +83,12 @@ technologies used are HTML and CSS only.
 7. File Structure to follow below.
 
 ```
-WD-ProjectName
+WD-Seatwork4
 └─ assets
 |   └─ css
 |   |   └─ style.css
 |   └─ img
 |   |   └─ fileWith.jpeg/.jpg/.webp/.png
-|   └─ js
-|       └─ script.js
 └─ pages
 |  └─ pageName
 |     └─ assets
@@ -113,6 +104,6 @@ WD-ProjectName
 ## Resources
 
 <!-- TODO: Add References -->
-| Title | Purpose | Link |
-|-|-|-|
-| Sample Title | Sample purpose would be here like this and this is the example of what it is. | trykolang.com |
+
+Dota 2 Background | https://tse4.mm.bing.net/th?id=OIP.NWghv5wHI-aLFbqS9zQuYwHaEK&pid=Api&P=0&h=180
+
