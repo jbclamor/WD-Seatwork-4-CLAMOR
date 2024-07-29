@@ -65,6 +65,8 @@ technologies used are HTML and CSS only.
 <!-- TODO: List of Key Components -->
 <!-- The following are just sample -->
 - MultiPage Website
+- Transition
+
 
 ### Technology
 <!-- TODO: List of Technology Used -->
@@ -105,5 +107,10 @@ WD-Seatwork4
 
 <!-- TODO: Add References -->
 
-Dota 2 Background | https://tse4.mm.bing.net/th?id=OIP.NWghv5wHI-aLFbqS9zQuYwHaEK&pid=Api&P=0&h=180
+| Title | Purpose | Link |
+|-|-|-|
+| Dota 2 Background  | used for landing page background | https://tse4.mm.bing.net/th?id=OIP.NWghv5wHI-aLFbqS9zQuYwHaEK&pid=Api&P=0&h=180 |
+| Lifestealer Picture | used for feature 1 background | https://tse4.mm.bing.net/th?id=OIP.OXQ2gNM8jf-UDX6dVsq8SAHaEK&pid=Api&P=0&h=180 |
+| Faceless Void Picture | used for feature 2 background | https://tse4.mm.bing.net/th?id=OIP.OXQ2gNM8jf-UDX6dVsq8SAHaEK&pid=Api&P=0&h=180 |
+
 
